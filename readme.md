@@ -6,6 +6,9 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 
 - clone repository
 - run `npm install`
+- run `npm run build-css` to compile the src and place compiled css at public folder. This script is written in customized at package.json
+- run `npx tailwindcss init --full` to create full tailwind config js file
+- run `npx tailwindcss init ` to create blank tailwind config js file
 
 ## Lesson and description
 
