@@ -30,6 +30,7 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 16 Responsive Nav and Side Bar (Part-1)
 - Lesson 17 Responsive Nav and Side Bar (Part-2)
 - Lesson 18 Transactions
+- Lesson 19 Wrap Up (Finishing Touches)
 
 ## Configuration
 
