@@ -24,6 +24,7 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 10 Badges
 - Lesson 11 using @apply
 - Lesson 12 Grid
+- Lesson 13 Button
 
 ## Configuration
 
