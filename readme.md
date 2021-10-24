@@ -27,7 +27,8 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 13 Button
 - Lesson 14 Adding SVG Icon
 - Lesson 15 Hover Effects
-- Lesson 16 Responsive Nav and Side Bar
+- Lesson 16 Responsive Nav and Side Bar (Part-1)
+- Lesson 17 Responsive Nav and Side Bar (Part-2)
 
 ## Configuration
 
