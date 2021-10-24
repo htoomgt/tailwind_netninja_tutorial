@@ -23,7 +23,8 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 
 - Create full config file wiht no 4 setup and running command and backup by rename with tailwind-default-config.js
 - Then create blank config file with no 5 setup and running command.
-- Overwrite value can be added to blank config file
+- Override value can be added to blank config file. E.g. override value color, fonts, etc.
+- Any import can be made before tailwind css loaded at src/style.css
 
 ## Referenced Link
 
