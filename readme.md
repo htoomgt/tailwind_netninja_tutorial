@@ -23,6 +23,7 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 09 Card Component
 - Lesson 10 Badges
 - Lesson 11 using @apply
+- Lesson 12 Grid
 
 ## Configuration
 
@@ -30,6 +31,9 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Then create blank config file with no 5 setup and running command.
 - Override value can be added to blank config file. E.g. override value color, fonts, etc.
 - Any import can be made before tailwind css loaded at src/style.css
+
+## Tips
+1. Write inline css and apply at src/style.css later
 
 ## Referenced Link
 
