@@ -25,6 +25,7 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 11 using @apply
 - Lesson 12 Grid
 - Lesson 13 Button
+- Lesson 14 Adding SVG Icon
 
 ## Configuration
 
