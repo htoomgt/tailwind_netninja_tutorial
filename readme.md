@@ -21,6 +21,7 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 07 FlexBox
 - Lesson 08 Responsive Classes
 - Lesson 09 Card Component
+- Lesson 10 Badges
 
 ## Configuration
 
