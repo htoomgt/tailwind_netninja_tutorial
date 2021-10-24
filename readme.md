@@ -18,6 +18,8 @@ This repository is TailWind CSS tutorial practice project from netninja youtube.
 - Lesson 04 adding padding, marigin and border
 - Lesson 05 Tailwind Config & Theme
 - Lesson 06 Custom Fonts
+- Lesson 07 FlexBox
+- Lesson 08 Responsive Classes
 
 ## Configuration
 
